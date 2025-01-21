@@ -58,7 +58,7 @@ const home = {
       Hey there! I'm Franklin, a Front-End Developer at
       <InlineCode>GH Web Development Solutions</InlineCode> bringing ideas to
       life with clean, " <br />
-      efficient code and stunning designs.{" "}
+      efficient code and stunning designssssss.{" "}
     </>
   ),
 };
