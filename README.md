@@ -1,4 +1,3 @@
-# **Build your portfolio with Once UI's Portfolio**
 
 View the [My Porfolio](https://frankmazon.github.io/Franklin-Portfolio).
 
