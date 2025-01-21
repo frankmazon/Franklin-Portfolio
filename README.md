@@ -2,7 +2,7 @@
 
 View the [demo here](https://demo.magic-portfolio.com).
 
-![Magic Portfolio](public/images/cover.png)
+![Magic Portfolio](public/images/front.png)
 
 
 # **Getting started**
