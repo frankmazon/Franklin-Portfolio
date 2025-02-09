@@ -1,6 +1,6 @@
-mport mdx from '@next/mdx';
+import mdx from '@next/mdx';
 
-const withMDX = mdx({
+const createMDX = require('@next/mdx')({
   extension: /\.mdx?$/,
   options: {
     remarkPlugins: [],
@@ -13,4 +13,4 @@ const nextConfig = {
   pageExtensions: ['ts', 'tsx', 'md', 'mdx'],
 };
 
-export default withMDX(nextConfig);
+module.exports = createMDX(nextConfig);
